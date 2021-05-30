@@ -57,7 +57,7 @@ namespace MB.Dijkstra.Services
             Dijkstra(vertices);
             foreach(var vertex in vertices)
             {
-                Console.WriteLine(String.Format("Shortest path from 0 to {0} is: {1}", vertex.Index, vertex.MaxDistance));
+                Console.WriteLine(String.Format("Shortest path from 0 to {0} is: {1}", vertex.Index, vertex.MaxDistance == int.MaxValue ? "not exist" : vertex.MaxDistance.ToString()));
             }
         }
     }
