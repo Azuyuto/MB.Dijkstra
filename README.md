@@ -11,5 +11,4 @@ Instrukcja uruchomienia algorytmu:
 4. Później odpalamy program klikając "Start" lub przycisk F5
 ![screen_4](https://raw.githubusercontent.com/Azuyuto/MB.Dijkstra/master/Screens/point_4.png)
 5. Powinna odpalić się konsola z rozwiązaniem
-
 ![screen_5](https://raw.githubusercontent.com/Azuyuto/MB.Dijkstra/master/Screens/point_5.PNG)
