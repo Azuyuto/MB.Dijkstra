@@ -10,5 +10,6 @@ Instrukcja uruchomienia algorytmu:
 ![screen_3](https://raw.githubusercontent.com/Azuyuto/MB.Dijkstra/master/Screens/point_3.png)
 4. Później odpalamy program klikając "Start" lub przycisk F5
 ![screen_4](https://raw.githubusercontent.com/Azuyuto/MB.Dijkstra/master/Screens/point_4.png)
-5. Powinna odpalić się konsola z rozwiązaniem
+
+Oczekiwany rezultat
 ![screen_5](https://raw.githubusercontent.com/Azuyuto/MB.Dijkstra/master/Screens/point_5.PNG)
