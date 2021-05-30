@@ -1,12 +1,11 @@
 # MB.Dijkstra
-A solution of project from graph theory.
+> A solution of project from graph theory.
 
-Część analityczna znajduję się w pliku "1. MB - Część analityczna.pdf"
-
-Część programistyczna to kod w języku C# i plik "2. MB - Analiza algorytmu.pdf"
+1. Część analityczna znajduję się w pliku "1. MB - Część analityczna.pdf"
+2. Część programistyczna to kod w języku C# i plik "2. MB - Analiza algorytmu.pdf"
 
 Opis programu:
-Program pobiera pliki json z folderu MB.Dijkstra/Data, a następnie wylicza dla nich najkrótsze ścieżki od wierzchołka 0 do pozostałych za pomocą algorytmu Dijkstra.
+> Program pobiera pliki json z folderu MB.Dijkstra/Data, a następnie wylicza dla nich najkrótsze ścieżki od wierzchołka 0 do pozostałych za pomocą algorytmu Dijkstra.
 
 Instrukcja uruchomienia algorytmu:
 1. Potrzebne jest Microsoft Visual Studio 2019/2017
