@@ -18,8 +18,12 @@ namespace MB.Dijkstra.Services
             {
                 if(!vertices[edge.EndVertex].Visited)
                 {
-                    vertices[edge.EndVertex].MaxDistance = Math.Min(vertices[edge.EndVertex].MaxDistance, vertices[current].MaxDistance + edge.Weight);
-                    Dijkstra(vertices, edge.EndVertex);
+                    var distance = vertices[current].MaxDistance + edge.Weight;
+                    if(distance < vertices[edge.EndVertex].MaxDistance)
+                    {
+                        vertices[edge.EndVertex].MaxDistance = distance;
+                        Dijkstra(vertices, edge.EndVertex);
+                    }
                 }
             }
             vertices[current].Visited = false;
