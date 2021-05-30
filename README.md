@@ -1,5 +1,5 @@
 # MB.Dijkstra
-> A solution of project from graph theory.
+A solution of project from graph theory.
 
 1. Część analityczna znajduję się w pliku "1. MB - Część analityczna.pdf"
 2. Część programistyczna to kod w języku C# i plik "2. MB - Analiza algorytmu.pdf"
