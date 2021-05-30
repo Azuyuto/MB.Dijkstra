@@ -12,4 +12,5 @@ Instrukcja uruchomienia algorytmu:
 ![screen_4](https://raw.githubusercontent.com/Azuyuto/MB.Dijkstra/master/Screens/point_4.png)
 
 Oczekiwany rezultat
+
 ![screen_5](https://raw.githubusercontent.com/Azuyuto/MB.Dijkstra/master/Screens/point_5.PNG)
