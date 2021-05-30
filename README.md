@@ -2,6 +2,7 @@
 A solution of project from graph theory.
 
 Część analityczna znajduję się w pliku "1. MB - Część analityczna.pdf"
+
 Część programistyczna to kod w języku C# i plik "2. MB - Analiza algorytmu.pdf"
 
 Opis programu:
